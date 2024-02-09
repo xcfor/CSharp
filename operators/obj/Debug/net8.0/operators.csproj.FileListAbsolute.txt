@@ -1,0 +1,15 @@
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\bin\Debug\net8.0\operators.exe
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\bin\Debug\net8.0\operators.deps.json
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\bin\Debug\net8.0\operators.runtimeconfig.json
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\bin\Debug\net8.0\operators.dll
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\bin\Debug\net8.0\operators.pdb
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.AssemblyInfo.cs
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.sourcelink.json
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.dll
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\refint\operators.dll
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.pdb
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\operators.genruntimeconfig.cache
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\operators\obj\Debug\net8.0\ref\operators.dll

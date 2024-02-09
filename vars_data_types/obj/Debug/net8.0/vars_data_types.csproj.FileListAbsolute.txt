@@ -1,0 +1,15 @@
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.AssemblyInfo.cs
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.sourcelink.json
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\bin\Debug\net8.0\vars_data_types.exe
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\bin\Debug\net8.0\vars_data_types.deps.json
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\bin\Debug\net8.0\vars_data_types.runtimeconfig.json
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\bin\Debug\net8.0\vars_data_types.dll
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\bin\Debug\net8.0\vars_data_types.pdb
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.dll
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\refint\vars_data_types.dll
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.pdb
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\vars_data_types.genruntimeconfig.cache
+C:\Users\Chris\Desktop\for_github_portfolio\CSharp\vars_data_types\obj\Debug\net8.0\ref\vars_data_types.dll
